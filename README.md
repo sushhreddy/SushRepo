@@ -1,4 +1,4 @@
 # SushRepo
 My First Git Project
 <br>
-Author-Sushmitha
+Author-Sushmitha Reddy
